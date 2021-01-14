@@ -1,4 +1,4 @@
-## ATMS 493: Racial Justice in Academia and Beyond 
+## Racial Justice in the Geosciences and Beyond 
 #### Hosted by:
 ### Department of Atmospheric Sciences
 ### University of Washington
