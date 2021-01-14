@@ -15,7 +15,8 @@ The format of each week will vary as some weeks will have invited speakers, othe
 **Guest speakers:** Judy Twedt, Dargan Frierson, and Ángel Coralliza-Adames
 
 **Reading List:**  
-Scene on Radio Podcast, Season 2, episode 8: [Skulls and Skin](http://www.sceneonradio.org/episode-38-skulls-and-skins-seeing-white-part-8/)
+* Scene on Radio Podcast, Season 2, episode 8: [Skulls and Skin](http://www.sceneonradio.org/episode-38-skulls-and-skins-seeing-white-part-8/)  
+* more...
 
 ### Indigenous Rights, History, and Ways of Knowing (Week 5 & 6)
 Guest speaker: Assistant Professor P. Joshua Griffin, UW School of Marine Environmental Affairs and American Indian Studies
