@@ -5,7 +5,36 @@ Welcome to Justice and Equity in Academia and Beyond.  This special topics class
   
 The format of each week will vary as some weeks will have invited speakers, others will focus on small and/or large group discussions, and some weeks will include both. 
 
-### Week 1: Welcome and establishing discussion guidelines
+### College of the Environment and community statistics (Week 2)
+Reading List: 
+
+### The History of Scientific Racism in our Field (Week 3 & 4)
+Guest speakers: Judy Twedt, Dargan Frierson, and Ángel Coralliza-Adames
+
+Reading List: 
+
+### Indigenous Rights, History, and Ways of Knowing (Week 5 & 6)
+Guest speaker: Assistant Professor P. Joshua Griffin, UW School of Marine Environmental Affairs and American Indian Studies
+
+Reading List: 
+
+### Environmental Justice in Cities
+Guest speaker: Assistant Professor Christopher Schell, UW Tacoma School of Interdisciplinary Arts and Sciences 
+
+Reading List: 
+
+### Climate Justice 
+Guest speaker: Anthony Rogers-Wright, Climate Justice Alliance
+
+Reading List: 
+
+### Climate Justice and Migration 
+Guest speaker: Maxine Burkett, University of Hawaii at Manoa
+
+Reading List: 
+
+### Bringing it home: Seattle 
+Reading List: 
 
 
 You can use the [editor on GitHub](https://github.com/kbren/Racial_justice_atmos_sci_UW/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
