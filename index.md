@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## ATMS 493: Racial Justice in Academia and Beyond 
+### Hosted by the Department of Atmospheric Sciences at the University of Washington
+
+Welcome to Justice and Equity in Academia and Beyond.  This special topics class will (1) familiarize students with contemporary topics in climate justice including; environmental racism, indigenous rights, and the relationship between science and social justice; and (2) seek to improve the overall curriculum and culture within the Atmospheric Sciences. 
+  
+The format of each week will vary as some weeks will have invited speakers, others will focus on small and/or large group discussions, and some weeks will include both. 
+
+### Week 1: Welcome and establishing discussion guidelines
+
 
 You can use the [editor on GitHub](https://github.com/kbren/Racial_justice_atmos_sci_UW/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
