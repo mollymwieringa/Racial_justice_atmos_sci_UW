@@ -7,9 +7,9 @@ The format of each week will vary as some weeks will have invited speakers, othe
 
 ### College of the Environment and community statistics (Week 2)
 **Reading List:**  
--Schell, C.J., Guy, C., Shelton, D.S. et al. (2020) [Recreating Wakanda by promoting Black excellence in ecology and evolution](https://www.nature.com/articles/s41559-020-1266-7)
--McIntosh (1989) [White Privilege: Unpacking the Invisible Knapsack](https://psychology.umbc.edu/files/2016/10/White-Privilege_McIntosh-1989.pdf)
--Bernard, R.E., Cooperdock, E.H.G. (2018) [No progress on diversity in 40 years.](https://www.nature.com/articles/s41561-018-0116-6)
+* Schell, C.J., Guy, C., Shelton, D.S. et al. (2020) [Recreating Wakanda by promoting Black excellence in ecology and evolution](https://www.nature.com/articles/s41559-020-1266-7)  
+* McIntosh (1989) [White Privilege: Unpacking the Invisible Knapsack](https://psychology.umbc.edu/files/2016/10/White-Privilege_McIntosh-1989.pdf)  
+* Bernard, R.E., Cooperdock, E.H.G. (2018) [No progress on diversity in 40 years.](https://www.nature.com/articles/s41561-018-0116-6)
 
 ### The History of Scientific Racism in our Field (Week 3 & 4)
 Guest speakers: Judy Twedt, Dargan Frierson, and Ángel Coralliza-Adames
