@@ -1,11 +1,13 @@
 ## ATMS 493: Racial Justice in Academia and Beyond 
-### Hosted by the Department of Atmospheric Sciences at the University of Washington
+#### Hosted by:
+### Department of Atmospheric Sciences
+### University of Washington
 
-Welcome to Justice and Equity in Academia and Beyond.  This special topics class will (1) familiarize students with contemporary topics in climate justice including; environmental racism, indigenous rights, and the relationship between science and social justice; and (2) seek to improve the overall curriculum and culture within the Atmospheric Sciences. 
+Welcome to Justice and Equity in Academia and Beyond.  This was a special topics class held in the Fall 2020 at the University of Washington in the Department of Atmospheric Sciences. The goal of the course was (1) familiarize students with contemporary topics in climate justice including; environmental racism, indigenous rights, and the relationship between science and social justice; and (2) seek to improve the overall curriculum and culture within the Atmospheric Sciences. 
   
 The format of each week will vary as some weeks will have invited speakers, others will focus on small and/or large group discussions, and some weeks will include both. 
 
-### College of the Environment and community statistics (Week 2)
+### Where are we now: community statistics 
 **Reading List:**  
 * Schell, C.J., Guy, C., Shelton, D.S. et al. (2020) [Recreating Wakanda by promoting Black excellence in ecology and evolution](https://www.nature.com/articles/s41559-020-1266-7)  
 * McIntosh (1989) [White Privilege: Unpacking the Invisible Knapsack](https://psychology.umbc.edu/files/2016/10/White-Privilege_McIntosh-1989.pdf)  
